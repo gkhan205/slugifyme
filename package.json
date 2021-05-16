@@ -1,0 +1,26 @@
+{
+  "name": "slugifyme",
+  "version": "1.0.0",
+  "description": "A light weight library to create slugs with ease. Compatible with Browser and Node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkhan205/slugifyme.git"
+  },
+  "keywords": [
+    "slugs",
+    "slugify",
+    "create-slug",
+    "javascript"
+  ],
+  "author": {
+    "name": "Ghazi Khan",
+    "url": "https://codewithghazi.com",
+    "email": "hey@codewithghazi.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkhan205/slugifyme/issues"
+  },
+  "homepage": "https://github.com/gkhan205/slugifyme#readme"
+}
