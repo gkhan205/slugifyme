@@ -17,4 +17,4 @@ function slugifyme(string) {
     .replace(/-+$/, ""); // Trim - from end of text
 }
 
-module.exports.slugifyme = slugifyme;
+module.exports = slugifyme;
