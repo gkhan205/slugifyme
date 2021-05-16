@@ -11,9 +11,20 @@ slugifyme("Create a Slug for me.");
 // returns `create-a-slug-for-me`
 ```
 
+```js
+const slugifyme = require("slugifyme");
+
+slugifyme.slugifyme("Create a Slug for me.");
+// returns `create-a-slug-for-me`
+```
+
 ## Demo
 
-[![Edit infallible-heyrovsky-fik2x](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/infallible-heyrovsky-fik2x?fontsize=14&hidenavigation=1&theme=dark)
+Browser Demo (JS, React, Angular, Vue, etc)\
+[![Edit slugifyme-browser-demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/slugifyme-demo-fik2x?fontsize=14&hidenavigation=1&theme=dark)
+
+NodeJS Demo\
+[![Edit slugifyme-node-demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/gallant-hodgkin-vzql1?fontsize=14&hidenavigation=1&theme=dark)
 
 ---
 
