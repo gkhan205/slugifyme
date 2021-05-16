@@ -1,6 +1,6 @@
 {
   "name": "slugifyme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A light weight library to create slugs with ease. Compatible with Browser and Node",
   "main": "index.js",
   "repository": {
